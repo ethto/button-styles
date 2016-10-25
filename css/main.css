@@ -36,18 +36,15 @@ div {
 .btn-subtle:hover {
   background-color: #666;
   border-color: #666;
-
 }
 
 .btn-ghost {
   background-color: white;
   color: black;
-  border: 3px solid #333;
 }
 
 .btn-ghost:hover {
   background-color: #666;
-  border: 3px solid #666;
   color: white;
 }
 
@@ -62,7 +59,6 @@ div {
 
 .btn-small {
   font-size: .875rem;
-  padding: .3em;
 }
 
 .btn-small:hover {
@@ -82,14 +78,10 @@ div {
 .btn-small-ghost {
   background-color: white;
   color: black;
-  border: 3px solid #333;
-
-
 }
 
 .btn-small-ghost:hover {
   background-color: #666;
-  border: 3px solid #666;
   color: white;
 }
 
@@ -105,7 +97,6 @@ div {
 
 .btn-big {
   font-size: 1.5rem;
-  padding: .75em;
 }
 
 .btn-big:hover {
@@ -125,13 +116,10 @@ div {
 .btn-big-ghost {
   background-color: white;
   color: black;
-  border: 3px solid #333;
-
 }
 
 .btn-big-ghost:hover {
   background-color: #666;
-  border: 3px solid #666;
   color: white;
 }
 
