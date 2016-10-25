@@ -15,7 +15,7 @@ div {
 .btn {
   text-decoration: none;
   border-radius: 8px;
-  color: white;
+  color: #fff;
   background-color: #333;
   padding: .4em;
   font-size: 1.125rem;
@@ -39,18 +39,18 @@ div {
 }
 
 .btn-ghost {
-  background-color: white;
-  color: black;
+  background-color: #fff;
+  color: #000;
 }
 
 .btn-ghost:hover {
   background-color: #666;
-  color: white;
+  color: #fff;
 }
 
 .btn-warning {
   background-color: #f33;
-  border: #f33;
+  border-color: #f33;
 }
 
 .btn-warning:hover {
@@ -76,13 +76,13 @@ div {
 }
 
 .btn-small-ghost {
-  background-color: white;
-  color: black;
+  background-color: #fff;
+  color: #000;
 }
 
 .btn-small-ghost:hover {
   background-color: #666;
-  color: white;
+  color: #fff;
 }
 
 .btn-small-warning {
@@ -100,7 +100,7 @@ div {
 }
 
 .btn-big:hover {
-  background-color: black;
+  background-color: #000;
 }
 
 .btn-big-subtle {
@@ -114,13 +114,13 @@ div {
 }
 
 .btn-big-ghost {
-  background-color: white;
-  color: black;
+  background-color: #fff;
+  color: #000;
 }
 
 .btn-big-ghost:hover {
   background-color: #666;
-  color: white;
+  color: #fff;
 }
 
 .btn-big-warning {
