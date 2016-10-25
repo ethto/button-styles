@@ -19,7 +19,7 @@ deliverables: "1 HTML file, 1 CSS file"
 ## Details
 
 - *Text sizes:* `1.125rem`, `.875rem`, `1.5rem`
-- *Colours:* `#fff`, `#000`, `#333`, `#666`, `#ccc`, `#f33`, `#933`
+- *Colours:* `#fff-white`, `#000-black`, `#333-darkestgrey`, `#666-lighdarkgrey`, `#ccc`, `#f33-red`, `#933-maroon`
 - *Button padding:* `.4em .75em .3em`
 - *Button corner radius:* `8px`
 - *Button border width:* `3px`
