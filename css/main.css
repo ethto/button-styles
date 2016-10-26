@@ -12,6 +12,10 @@ div {
   text-align: center;
 }
 
+body {
+  margin: 0;
+}
+
 .btn {
   text-decoration: none;
   border-radius: 8px;
